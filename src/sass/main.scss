@@ -1,0 +1,56 @@
+@import "./../css/bootstrap.min.css";
+// @import "../../node_modules/swiper/swiper.scss";
+// @import "./../css/all.min.css";
+@import "./typography/fonts";
+@import "./variables/variables";
+@import "./typography/text";
+@import "./animation/animation";
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  // background: #e6e8ee;
+  background: #f3f4f5;
+  --responsive-gap: 15px;
+}
+
+ul {
+  margin: 0;
+  // padding: 0;
+  list-style: none;
+}
+
+p {
+  font-family: $robotoRegular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 27px;
+  margin-top: 1rem;
+  strong {
+    font-family: $robotoBold;
+  }
+}
+
+.content-box {
+  max-width: 100%;
+  width: 1170px;
+  margin: 0 auto;
+
+  @media (max-width: 1160px) {
+    padding-left:15px ;
+    padding-right:15px ;
+  }
+}
+
+@import "./top-bar";
+@import "./progress-bar";
+@import "./hero-area";
+@import "./square-spaces";
+@import "./testimonial";
+@import "./footer";

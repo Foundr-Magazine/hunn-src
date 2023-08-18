@@ -1,0 +1,27 @@
+.mobile-floating-button {
+  @media (min-width: 769px) {
+    display: none;
+  }
+
+  margin: 0 auto;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 111;
+  padding: 0;
+
+  a {
+        width: 100vw;
+    max-width: 100vw;
+    border-radius: 0;
+    left: 0;
+    margin: 0;
+    padding-block: clamp(11px,2vw,27px);
+
+    &::after,
+    &::before{
+        content: none;
+    }
+  }
+}

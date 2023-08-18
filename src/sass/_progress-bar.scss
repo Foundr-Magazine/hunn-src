@@ -1,0 +1,25 @@
+.progress-bar-wrapper {
+  margin: clamp( 20px, 5vw, 50px) 0 clamp( 20px, 5vw, 50px);
+  padding: 15px 0;
+  .progress-content {
+    text-align: center;
+
+    .progress-loading-wrapper {
+      border-radius: 5px;
+      background-color: #e6e8ee;
+      border: 1px solid #f51e40;
+    }
+
+    .progress-loading-bar{
+      background: #f51e40;
+      color: #fff;
+      width: 50%;
+      padding: 5px;
+      border-radius: 5px 0 0 5px;
+      font-weight: bold;
+      font-size: clamp( 12px, 2.5vw, 19px);
+      line-height:  clamp( 12px, 2.5vw, 19px);
+
+    }
+  }
+}
