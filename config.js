@@ -1,5 +1,5 @@
 // Change This.
-const projectVersion = '1'
+const projectVersion = '2'
 const projectEntryFile = 'main.php'
 
 
