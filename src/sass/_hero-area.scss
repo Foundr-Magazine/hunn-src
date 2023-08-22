@@ -109,7 +109,6 @@
   .video-frame {
     margin: 30px AUTO;
     position: relative;
-    max-width: 706px;
     @media (max-width: 575px) {
       margin: 15px 10px;
     }
@@ -228,7 +227,7 @@
   }
   .video-area {
     position: relative;
-    max-width: 706px;
+    max-width: 900px;
     margin: 0 auto;
 
     .video-frame {

@@ -5,11 +5,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>How Chris Hunn Almost 8x His Revenue Yoy With Ecommerce Coaching | Foundr.com</title>
+        <title>How Chris's Revenue Soared 8X Year on Year (2022 vs. 2023 from Jan to Jun) and Almost Doubled 2022's Total in 2023 | Foundr.com</title>
         <meta name="googlebot" content="noindex" />
         <meta property="og:type" content="website" />
         <meta property="og:description" content="" />
-        <meta property="og:title" content="How Chris Hunn Almost 8x His Revenue Yoy With Ecommerce Coaching | Foundr.com" />
+        <meta property="og:title" content="How Chris's Revenue Soared 8X Year on Year (2022 vs. 2023 from Jan to Jun) and Almost Doubled 2022's Total in 2023 | Foundr.com" />
         <meta property="og:image" content="">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="675">
