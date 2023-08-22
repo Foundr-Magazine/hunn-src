@@ -10,15 +10,15 @@
       margin-bottom: 20px;
       .title{
           color: $headingColor;
-          font-size: 14px;
-          line-height: 17px;
+          font-size: 18px;
+          line-height: 20px;
           font-family: $sanSerifLight-57;
           text-transform: uppercase;
           margin-bottom: 7px;
           letter-spacing: 1px;
           @media(max-width: 767px){
-              font-size: 12px;
-              line-height: 15px;
+            font-size: 14px;
+            line-height: 16px;
           }
       }
       ul{
